@@ -14,4 +14,5 @@ The goal of this project is to develop a machine learning model that can predict
 ## Dataset
 
 The dataset used for training and testing the model is available in the `dataset` directory. It includes the following files:
-- `fetch_california_housing_data.csv`: The dataset of model you can split dataset acroding to your model 
+- `fetch_california_housing_data.csv`: The dataset of model, you can split dataset acroding to your model 
+- `road_and_county.csv`:  that file contain dataset of road and county 
